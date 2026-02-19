@@ -1,4 +1,4 @@
-# 🌦️ Weather App
+# 🌦️ Weather App (Using React And Material UI)
 
 A modern, responsive, and aesthetically pleasing weather application built using **React**, **Vite**, and **Material UI**. This app fetches real-time weather data from the OpenWeatherMap API and dynamically updates the user interface to reflect the current weather conditions (e.g., Hot, Cold, Rainy).
 
