@@ -60,7 +60,7 @@ Follow these steps to set up the project locally:
 5.  **Access the App**
     Open your browser and navigate to `http://localhost:5173`.
 
-## 📂 Project Structure
+## 📂 Project Structure And File Setup 
 
 ```
 mini-project/
