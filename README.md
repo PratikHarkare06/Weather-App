@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 *   [Node.js](https://nodejs.org/) (v16 or higher)
 *   [npm](https://www.npmjs.com/) (usually comes with Node.js)
 
-## 📦 Installation & Setup
+## 📦 Installation & Setup Of the Waether Application
 
 Follow these steps to set up the project locally:
 
